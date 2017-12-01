@@ -1,5 +1,6 @@
 Credits to creator of Molokai vim theme: https://github.com/tomasr/molokai
 Use with:
+
 ```
-wget -O - https://git.io/vbqqq | bash`
+wget -O - https://git.io/vbqqq | bash
 ```
