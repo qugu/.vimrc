@@ -1,4 +1,8 @@
 Credits to creator of Molokai vim theme: https://github.com/tomasr/molokai
+
+Prerequisites:
+Remove `vim-tiny` and install `vim-runtime` and `vim-gui-common`
+
 Use with:
 
 ```
